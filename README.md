@@ -3,7 +3,7 @@
 <div>
   
 ### 💻 Tech Stack:
-<p>★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .✦ ݁˖  ⋆.˚  ᯓ★  ⋆⭒˚.⋆  ✶⋆.˚  ⋆˚࿔★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .✦ ݁˖  ⋆.˚  ᯓ★  ⋆⭒˚.⋆  ✶⋆.˚  ⋆˚࿔★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .࿔★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .</p>
+<p>★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .✦ ݁˖  ⋆.˚  ᯓ★  ⋆⭒˚.⋆  ✶⋆.˚  ⋆˚࿔★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .✦ ݁˖  ⋆.˚  ᯓ★  ⋆⭒˚.⋆  ✶⋆.˚  ⋆˚࿔★  ☆  ͙͘͡★  ⋆˙⟡  ✮⋆˙  ⊹ ࣪ ˖  ⋆✴︎˚｡⋆  ⋆˚✰ ݁˖⭑.ᐟ  .࿔★  ☆</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35" width="35"/>
